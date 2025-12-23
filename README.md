@@ -2,8 +2,6 @@
 
 A configurable Android app for intercepting and analyzing deep links from any application. Perfect for security research, penetration testing, and understanding OAuth flows.
 
-[![Use this template](https://img.shields.io/badge/Use%20this%20template-2ea44f?style=for-the-badge)](../../generate)
-
 ## 🎯 Features
 
 ✅ **Universal** - Works with any app's deep link scheme  
@@ -18,11 +16,9 @@ A configurable Android app for intercepting and analyzing deep links from any ap
 ### 1. Clone or Use Template
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/deep-link-proxy.git
-cd deep-link-proxy
+git clone https://github.com/EVA-Information-Security-Consluting/DeepLinkProxyApplication
+cd DeepLinkProxyApplication
 ```
-
-Or click "Use this template" above to create your own repository.
 
 ### 2. Configure
 
